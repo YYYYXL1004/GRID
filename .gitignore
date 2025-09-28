@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 
 data/
+logs/
+flan-t5-xl/
 # C extensions
 *.so
 
